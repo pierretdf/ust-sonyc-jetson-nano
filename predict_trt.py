@@ -7,7 +7,7 @@ import pycuda.autoinit
 
 BATCH_SIZE = 1
 DTYPE = trt.float32
-ENGINE_FILENAME = "sonyc_engine_fp16.trt"
+ENGINE_FILENAME = "sonyc_engine.trt"
 TAXONOMY_FILENAME = "./dcase-ust-taxonomy.yaml"
 
 #%%

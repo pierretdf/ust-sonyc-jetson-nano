@@ -1,6 +1,8 @@
+"""
+RUNNING INFERENCE WITH KERAS API DOESN'T WORKS
+"""
 import os
 from tensorflow import keras
-#from keras.models import model_from_json
 import inference
 import numpy as np
 
